@@ -21,7 +21,7 @@ done
 
 mkdir -p "${DIRS[@]}"
 
-touch loot/creds.txt
+#touch loot/creds.txt
 
 BASE="$(realpath .)"
 
